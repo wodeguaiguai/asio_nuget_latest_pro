@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>asio-cppp-latest</id>
+    <version>1.12.2</version>
+    <title>ASIO C++ Library</title>
+    <authors>wodeguaiguai</authors>
+    <owners>wodeguaiguai</owners>
+    <license type="file">license\license.txt</license>
+    <projectUrl>http://think-async.com/Asio/</projectUrl>
+    <iconUrl>http://icon_url_here_or_delete_this_line/</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Asio is a cross-platform C++ library for network and low-level I/O programming that provides developers with a consistent asynchronous model using a modern C++ approach.</description>
+    <summary>Asio is a cross-platform C++ library for network and low-level I/O programming.</summary>
+    <releaseNotes>First nuget package release</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>asio c++ native nativepackage</tags>
+  </metadata>
+</package>
